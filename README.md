@@ -1,3 +1,2 @@
-QU CS + Math&Stat Student
-
+QU CS Mathematics & Statistics Student
 Back-End Developer @ QGDC
